@@ -1,2 +1,2 @@
-# codigos_curtos_coursera
-Ao longo do curso "Introdução à Ciência da Computação com Python Pt.1", do Coursera/USP, foram desenvolvidos diversos códigos curtos relacionados aos tópicos abordados nas aulas, com o objetivo de reforçar os conceitos por meio da prática. Tais códigos estão salvos neste repositório e seus nomes são intuitivos para o que fazem.
+# exercicios_python_coursera_1
+Ao longo do curso "Introdução à Ciência da Computação com Python Pt.1", do Coursera/USP, foram desenvolvidos diversos exercicios relacionados com os tópicos abordados nas aulas. Tais códigos estão salvos neste repositório e seus nomes são relacionados com as suas funcionalidades.
